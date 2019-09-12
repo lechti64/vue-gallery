@@ -27,7 +27,7 @@
 
 [jsFiddle - video](https://fiddle.jshell.net/Robin_ck/djqcrm8m/show/light/)
 
-## Install
+## Installation
 #### CDN
 
 Recommended: https://unpkg.com/vue-gallery, which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at https://unpkg.com/vue-gallery/
