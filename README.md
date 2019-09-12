@@ -22,11 +22,8 @@
 :camera: VueJS galerie d'images et de vidéos réactives et personnalisables, carrousel et lightbox, optimisées pour les navigateurs Web mobiles et de bureau.
 
 ## Example  d'utilisation avec jsFiddle
-
-
-[jsFiddle - image](https://jsfiddle.net/lechti64/7tgucb0r/)
-
-[jsFiddle - video](https://jsfiddle.net/lechti64/d1gsr0vo/)
+[jsFiddle - image](https://jsfiddle.net/lechti64/7tgucb0r/embedded/result/dark/#Result)
+[jsFiddle - video](https://jsfiddle.net/lechti64/u8bqt0m1/embedded/result/dark/#Result)
 
 ## Installation
 #### CDN
