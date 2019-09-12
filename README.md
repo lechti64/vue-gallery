@@ -16,10 +16,14 @@
 
 </p>
 
-# vue-gallery
+# Vue-Galerie
+Projet français lechti64
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/RobinCK/vue-gallery.svg)](https://greenkeeper.io/)
-:camera: VueJS galerie d'images et de vidéos réactives et personnalisables, carrousel et lightbox, optimisées pour les navigateurs Web mobiles et de bureau.
+Inspiré du projet original de RobinCK
+
+# descriptif du script  Vue-Galerie
+
+:camera: VueJS vous propose une galerie d'images et de vidéos réactives 100% personnalisables, carrousel et lightbox sont de la partie, optimisées pour les navigateurs Web mobiles (smartphones, tablettes) et de bureau (PC) afin de respecter les standards actuels pour tout ces types d'usage.
 
 ## Example  d'utilisation avec jsFiddle
 [jsFiddle - image](https://jsfiddle.net/lechti64/7tgucb0r/embedded/result/dark/#Result)
