@@ -105,7 +105,7 @@ npm run build
 
 ```
 
-### Navigateur (ES5)
+### Navigateur web (ES5)
 ```html
   <script type="text/javascript" src="https://unpkg.com/vue@2.4.3/dist/vue.js"></script>
   <script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-helper.js"></script>
@@ -169,12 +169,12 @@ npm run build
 | onclosed         |                         |              |
 
 
-## Autre plugins Vue JS
+## Autre plugins du concepteur de Vue JS
 
 | Projet | Statut | Description |
 |---------|--------|-------------|
-| [vue-ls](https://github.com/RobinCK/vue-ls)    | ![npm](https://img.shields.io/npm/v/vue-ls.svg)  | Vue plugin pour travailler avec le stockage local, le stockage de session et le stockage de mémoire du contexte Vue |
-| [vue-popper](https://github.com/RobinCK/vue-popper)      | ![npm](https://img.shields.io/npm/v/vue-popperjs.svg) | VueJS composant popover basé sur <a href="https://popper.js.org/">popper.js</a> |178
+| [vue-ls](https://github.com/RobinCK/vue-ls)    | ![npm](https://img.shields.io/npm/v/vue-ls.svg)  | Plugin pour travailler avec le stockage local, le stockage de session et le stockage de mémoire du contexte Vue |
+| [vue-popper](https://github.com/RobinCK/vue-popper)      | ![npm](https://img.shields.io/npm/v/vue-popperjs.svg) | Composant popover basé sur <a href="https://popper.js.org/">popper.js</a> |178
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRobinCK%2Fvue-gallery.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRobinCK%2Fvue-gallery?ref=badge_large)
