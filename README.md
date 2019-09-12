@@ -21,11 +21,12 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/RobinCK/vue-gallery.svg)](https://greenkeeper.io/)
 :camera: VueJS galerie d'images et de vidéos réactives et personnalisables, carrousel et lightbox, optimisées pour les navigateurs Web mobiles et de bureau.
 
-## Example
+## Example  d'utilisation avec jsFiddle
 
-[jsFiddle - image](https://fiddle.jshell.net/Robin_ck/LffrLb2k/show/light/)
 
-[jsFiddle - video](https://fiddle.jshell.net/Robin_ck/djqcrm8m/show/light/)
+[jsFiddle - image](https://jsfiddle.net/lechti64/7tgucb0r/)
+
+[jsFiddle - video](https://jsfiddle.net/lechti64/d1gsr0vo/)
 
 ## Installation
 #### CDN
