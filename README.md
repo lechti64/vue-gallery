@@ -19,7 +19,7 @@
 # vue-gallery
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/RobinCK/vue-gallery.svg)](https://greenkeeper.io/)
-:camera: VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.
+:camera: VueJS galerie d'images et de vidéos réactives et personnalisables, carrousel et lightbox, optimisées pour les navigateurs Web mobiles et de bureau.
 
 ## Example
 
@@ -30,7 +30,7 @@
 ## Installation
 #### CDN
 
-Recommended: https://unpkg.com/vue-gallery, which will reflect the latest version as soon as it is published to npm. You can also browse the source of the npm package at https://unpkg.com/vue-gallery/
+Conseillé: https://unpkg.com/vue-gallery, qui reflètera la dernière version dès sa publication dans npm. Vous pouvez également parcourir la source du paquet npm à l’adresse suivante: https://unpkg.com/vue-gallery/
 
 #### NPM
 
@@ -43,7 +43,7 @@ npm install vue-gallery --save
 ``` bash
 yarn add vue-gallery
 ```
-## Development Setup
+## Configuration du développement
 
 ``` bash
 # install dependencies
@@ -55,7 +55,7 @@ npm run build
 
 ## Usage
 
-### VueJS single file (ECMAScript 2015)
+### VueJS un seul fichier (ECMAScript 2015)
 ```html
 <template>
   <div>
@@ -105,7 +105,7 @@ npm run build
 
 ```
 
-### Browser (ES5)
+### Navigateur (ES5)
 ```html
   <script type="text/javascript" src="https://unpkg.com/vue@2.4.3/dist/vue.js"></script>
   <script type="text/javascript" src="https://unpkg.com/blueimp-gallery@2.27.0/js/blueimp-helper.js"></script>
@@ -149,32 +149,32 @@ npm run build
 
 ## Props
 
-| Props               | Type      | Default                                         | Description  |
+| Props               | Type      | Par défaut                                         | Description  |
 | --------------------|:----------| ------------------------------------------------|--------------|
-| images              | Array     | []                                              | Urls list  |
-| index               | Number    | null                                            | Opened image index  |
+| images              | Array     | []                                              | Liste des URL  |
+| index               | Number    | null                                            | Index d'image ouvert  |
 | options             | Object    |                                                 | [blueimp-gallery](https://github.com/blueimp/Gallery) options |
 
 
 
-## Events
-| Name             | Params                  | Description  |
+## Événements
+| Nom              | Paramètres              | Description  |
 | -----------------|:------------------------|--------------|
-| onopen           |                         |         |
-| onopened         |                         |         |
-| onslide          |                         |         |
-| onslideend       |                         |         |
-| onslidecomplete  |                         |         |
-| onclose          |                         |         |
-| onclosed         |                         |         |
+| onopen           |                         |              |
+| onopened         |                         |              |
+| onslide          |                         |              |
+| onslideend       |                         |              |
+| onslidecomplete  |                         |              |
+| onclose          |                         |              |
+| onclosed         |                         |              |
 
 
-## Other my Vue JS plugins
+## Autre plugins Vue JS
 
-| Project | Status | Description |
+| Projet | Statut | Description |
 |---------|--------|-------------|
-| [vue-ls](https://github.com/RobinCK/vue-ls)    | ![npm](https://img.shields.io/npm/v/vue-ls.svg)  | Vue plugin for work with local storage, session storage and memory storage from Vue context |
-| [vue-popper](https://github.com/RobinCK/vue-popper)      | ![npm](https://img.shields.io/npm/v/vue-popperjs.svg) | VueJS popover component based on <a href="https://popper.js.org/">popper.js</a> |
+| [vue-ls](https://github.com/RobinCK/vue-ls)    | ![npm](https://img.shields.io/npm/v/vue-ls.svg)  | Vue plugin pour travailler avec le stockage local, le stockage de session et le stockage de mémoire du contexte Vue |
+| [vue-popper](https://github.com/RobinCK/vue-popper)      | ![npm](https://img.shields.io/npm/v/vue-popperjs.svg) | VueJS composant popover basé sur <a href="https://popper.js.org/">popper.js</a> |178
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRobinCK%2Fvue-gallery.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRobinCK%2Fvue-gallery?ref=badge_large)
